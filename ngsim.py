@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Copyright 2011 FG - http://worldofpiggy.wordpress.com
+Copyright 2011 Francesco Gadaleta - http://worldofpiggy.com
 HO-NG Hearer-Only Naming Game simulator 
 """
 
